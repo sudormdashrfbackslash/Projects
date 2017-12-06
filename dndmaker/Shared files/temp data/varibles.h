@@ -1,0 +1,2 @@
+//Gameplay files
+int dice[];
